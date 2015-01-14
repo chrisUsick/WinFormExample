@@ -13,7 +13,6 @@ namespace labChrisUsick
         
     {
         // commissions, values representing the upper ranges 
-         
         private int[] commissionRanges = new int[] { 5000, 10000 };
 
         // parallel array to commissionRanges, with final value represent the final rate
